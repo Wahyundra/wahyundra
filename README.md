@@ -1,5 +1,5 @@
-## Hi there 👋
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!-- ## Hi there 👋 -->
+<h2 align="left">Hi 👋! My name is Wahyu Indra Setiawan and I'm a Student, from Indonesia, Central Java</h2>
 
 ###
 
@@ -11,6 +11,11 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+![loop](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJrZDF3YmpsZDZ
+kOXIxMTNoZXI1eTA0Zmx6MGRlZHN5a3hnZ3ExciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpxTlAYheykhQQw/giphy.gif)
 
 ###
 
