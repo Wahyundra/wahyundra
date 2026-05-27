@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-![Wahyundra's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyundra)</div>
+![Wahyundra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wahyundra)</div>
 
 ###
 
