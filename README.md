@@ -8,8 +8,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Wahyundra/Wahyundra/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Wahyundra/Wahyundra/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.Wahyundra.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
