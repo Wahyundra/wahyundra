@@ -8,8 +8,7 @@
 ###
 
 <div align="center">
-![Wahyundra GitHub stats](https://github-readme-stats.vercel.app/api?username=Wahyundra&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+![Wahyundra's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyundra)</div>
 
 ###
 
