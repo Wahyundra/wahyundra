@@ -8,8 +8,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.Wahyundra.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
+![Wahyundra GitHub stats](https://github-readme-stats.vercel.app/api?username=Wahyundra&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
