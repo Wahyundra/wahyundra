@@ -3,18 +3,19 @@
 
 ###
 
+![banner](img/github-header-banner.png)
+
+###
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Wahyundra/Wahyundra/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Wahyundra/Wahyundra/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-![loop](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJrZDF3YmpsZDZkOXIxMTNoZXI1eTA0Zmx6MGRlZHN5a3hnZ3ExciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpxTlAYheykhQQw/giphy.gif)
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJrZDF3YmpsZDZkOXIxMTNoZXI1eTA0Zmx6MGRlZHN5a3hnZ3ExciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpxTlAYheykhQQw/giphy.gif"  />
 
 ###
 
