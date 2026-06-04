@@ -7,8 +7,8 @@
 
 ###
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wahyundra&show_icons=true&theme=radical" alt="Wahyundra's GitHub Stats"  />
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wahyundra&show_icons=true&theme=radical" alt="Wahyundra's GitHub Stats"  /> -->
+![Wahyundra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wahyundra&hide=contribs,prs)
 
 ###
 
