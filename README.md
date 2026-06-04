@@ -1,4 +1,10 @@
 <!-- ## Hi there 👋 -->
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <h2 align="left">Hi 👋! My name is Wahyu Indra Setiawan and I'm a Student</h2>
 
 ###
@@ -62,6 +68,12 @@
 ###
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31a5jgeixe5keqjcypbfleeipdbe&unique={true|1|on|yes})
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wahyundra.Wahyundra&"  />
+</div>
 
 <!--
 **Wahyundra/wahyundra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
