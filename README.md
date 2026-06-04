@@ -3,9 +3,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
-
-<h2 align="left">Hi 👋! My name is Wahyu Indra Setiawan and I'm a Student</h2>
+<h1 align="center">Hi 👋! My name is Wahyu Indra Setiawan and I'm a Student</h1>
 
 ###
 
@@ -19,7 +17,7 @@
 
 ### 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU3aG5mdHlwNWxpZm1hNmZkZWd1enhpa2Y1bDc5b2l4dzJ6bTJ0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/35NGT2lm6mfHlNAkMu/giphy.gif"  />
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJrZDF3YmpsZDZkOXIxMTNoZXI1eTA0Zmx6MGRlZHN5a3hnZ3ExciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpxTlAYheykhQQw/giphy.gif"  />
 
 ###
