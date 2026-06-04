@@ -1,17 +1,17 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 <h2 align="left">Hi 👋! My name is Wahyu Indra Setiawan and I'm a Student, from Indonesia, Central Java</h2>
 
 ###
 
 ![banner](img/github-header-banner.png)
 
-###
+### My GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Wahyundra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+### 
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJrZDF3YmpsZDZkOXIxMTNoZXI1eTA0Zmx6MGRlZHN5a3hnZ3ExciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpxTlAYheykhQQw/giphy.gif"  />
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
+### Play Games With Me
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
