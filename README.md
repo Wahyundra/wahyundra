@@ -3,7 +3,7 @@
 
 ###
 
-![banner](img/github-header-banner (1).png)
+![banner](img/banner.png)
 
 ### My GitHub Stats
 
