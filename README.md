@@ -1,11 +1,22 @@
-<!-- ## Hi there 👋 -->
-<h1 align="center">Hi 👋! My name is Wahyu Indra Setiawan and I'm a Student</h1>
+# Hi there 👋
+<!-- <h1 align="center">Hi 👋! My name is Wahyu Indra Setiawan</h1> -->
 
 ###
 
 ![banner](img/banner.png)
 
-### My GitHub Stats
+### About Me
+
+- 🔭 I’m Student from Indonesia
+- 🌱 I’m currently learning Laravel framework
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: ... -->
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: I love to play Badminton and watch anime
+
+### My GitHub Stats 😎
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Wahyundra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -69,17 +80,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Wahyundra.Wahyundra&"  />
 </div>
 
-<!--
-**Wahyundra/wahyundra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
